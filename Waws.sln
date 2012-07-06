@@ -1,25 +1,24 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "localhost", "http://localhost:2897", "{D934F8D3-865C-473B-85DA-14A96312FAEF}"
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_2897"
-		Debug.AspNetCompiler.PhysicalPath = "Waws.Web\"
+		Debug.AspNetCompiler.PhysicalPath = "WawsWeb\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2897\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_2897"
-		Release.AspNetCompiler.PhysicalPath = "Waws.Web\"
+		Release.AspNetCompiler.PhysicalPath = "WawsWeb\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2897\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		SlnRelativePath = "Waws.Web\"
+		SlnRelativePath = "WawsWeb\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
